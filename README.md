@@ -193,6 +193,7 @@ Don't forget to:
 | 🤑 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLCKFRIDAY50?_gl=1*dc01gi*_ga*MTc2OTg2OTI4Ni4xNjU5MzgxNjU3*_ga_6LJN6D94N6*MTY2OTEzOTU5OC41Ni4xLjE2NjkxNDAwNjQuMC4wLjA.) | Learn to make a portfolio project that will get you hired. | **BLCKFRIDAY50** for 50% off |
 | 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
 | 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
+| 🤑 | [Find Joy in Chaos]([https://miguelcoba.gumroad.com/l/ebookwriting](https://www.amazon.com/Find-Joy-Chaos-Connections-Opportunities-ebook/dp/B0B82CMW9G/)) | How to Build Your Twitter Presence so Connections and Opportunities Come Find You | 50% OFF, automatically applied, starting Nov 24 on Amazon |
 
 
 ## 📹 Courses
@@ -223,3 +224,4 @@ Don't forget to:
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
+|  🤑 | [Build in Public Starter Pack](https://publiclab.co/black-friday) | 3 products in 1 to help you build in public with your growing community for your buzzing launch | Only $45 from Nov 25-28 |
